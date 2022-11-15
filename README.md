@@ -20,9 +20,11 @@ Features and Functionalities 😃
 
 About us
 
+![2022-11-15](https://user-images.githubusercontent.com/114381270/201888304-78c32ea9-8cea-4627-95cb-4f86c335d079.png)
+![2022-11-15 (3)](https://user-images.githubusercontent.com/114381270/201888339-77464242-c119-49ae-abcb-c45c35b606c1.png)
+![2022-11-15 (2)](https://user-images.githubusercontent.com/114381270/201888398-bcbf9383-54e6-4ff9-977e-c9b4ce6062fb.png)
 
-![charan prj 1](https://user-images.githubusercontent.com/114381270/200607934-d753d471-ac89-4c2a-99ab-87d45efa7874.png)
-![charan 2 prj](https://user-images.githubusercontent.com/114381270/200608003-d859cea8-f9d3-4b61-9219-62bb33545929.png)
+
 
 
 Tech stack
@@ -32,3 +34,4 @@ Tech stack
 * CSS
 * Bootstrap
 * JavaScript
+
